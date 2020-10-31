@@ -10,10 +10,10 @@ We are part of the global ACM community as a student chapter at [Universidad Ana
 ## What we do
 
 ### * Workshops
-![Workshop](images/cybersecurity_workshop)
+![Workshop](images/cybersecurity_workshop.jpeg)
 
 ### * Seminars
-![Python Workshop Professor](images/python_workshop_prof.jpeg)
+![Python Workshop Professor](images/python_worksop_prof.jpeg)
 ![Python Workshop Members](images/python_workshop_members.jpeg)
 
 ### * Competitive Programming
