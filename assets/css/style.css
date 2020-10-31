@@ -635,7 +635,7 @@ a:hover {
 }
 
 .main-content img {
-    max-width:100%
+    max-width:90%
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
@@ -643,6 +643,7 @@ a:hover {
     margin-bottom: 1rem;
     font-weight: normal;
     color:#159957
+    text-align: center;
 }
 
 .main-content p {
