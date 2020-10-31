@@ -1,3 +1,4 @@
+![ACM Logo](images/ACM_logo.png)
 # Welcome to the ACM Turabo Student Chapter
 
 ## About Us:
@@ -8,7 +9,21 @@ We are part of the global ACM community as a student chapter at [Universidad Ana
 
 ## What we do
 
-## What's Next!
+### * Workshops
+![Workshop](images/cybersecurity_workshop)
+
+### * Seminars
+![Python Workshop Professor](images/python_workshop_prof.jpeg)
+![Python Workshop Members](images/python_workshop_members.jpeg)
+
+### * Competitive Programming
+![Competitive Programming](images/members_programming.jpeg)
+
+### * And More!
+![Orientation Speeches](images/school_visits_presentation.jpeg)
+
+### What's Next!
+Stay tuned on our social media websites for more information on future events!
 
 ## Support or Contact
 
@@ -16,3 +31,4 @@ Follow us on [Facebook](https://www.facebook.com/ACMTuraboChapter) and [GitHub](
 
 You can find all the materials of our workshops and seminars on our GitHub.
 Never hesitate to contact us. Any questions you have in confidence we answer it as soon as possible. Feel free to contact us via [email](mailto:acm.utchapter@gmail.com)
+![UAGM Logo\(images/UAGM_logo.png)
