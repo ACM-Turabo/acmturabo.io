@@ -13,7 +13,7 @@ We are part of the global ACM community as a student chapter at [Universidad Ana
 ![Workshop](images/cybersecurity_workshop.JPEG)
 
 ### * Seminars
-![Python Workshop Professor](images/python_worksop_prof.JPEG)
+![Python Workshop Professor](images/python_workshop_prof.JPEG)
 ![Python Workshop Members](images/python_workshop_members.JPEG)
 
 ### * Competitive Programming
