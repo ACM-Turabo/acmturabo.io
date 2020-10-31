@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Welcome to the ACM Turabo Student Chapter
 
-You can use the [editor on GitHub](https://github.com/ACM-Turabo/acmturabo.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About Us:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The [Association for Computing Machinery](https://www.acm.org) brings together computing educators, researchers, and profesional to inspire dialogue, share resources, and address the field's challenges. As the world's largest computing society, ACM strengtns the profession's collective voice through strong leadership, promotion of the highest standards, and recognition of technical excellence. We supports the professional growth of its members by providing opportunities for life-long learnings, career development, and professional networking.
 
-### Markdown
+We are part of the global ACM community as a student chapter at [Universidad Ana G. Méndez - Recinto de Gurabo](http://gurabo.uagm.edu). Our mission is to increase the interest of incomming students on computer engineering and computing overall while creating a hub of students and profesionals that share the same passion for computing.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What we do
 
-```markdown
-Syntax highlighted code block
+## What's Next!
 
-# Header 1
-## Header 2
-### Header 3
+## Support or Contact
 
-- Bulleted
-- List
+Follow us on [Facebook](https://www.facebook.com/ACMTuraboChapter) and [GitHub](https://github.com/ACM-Turabo)!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ACM-Turabo/acmturabo.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can find all the materials of our workshops and seminars on our GitHub.
+Never hesitate to contact us. Any questions you have in confidence we answer it as soon as possible. Feel free to contact us via [email](mailto:acm.utchapter@gmail.com)
